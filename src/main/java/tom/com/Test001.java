@@ -11,6 +11,8 @@ public class Test001 {
         System.out.println("master Branch first Commit from IDEA  ");
         System.out.println("FairyHome_fix second Commit from IDEA  ");
         System.out.println("fdsfasdfawg");
+        
+        System.out.println("Github fix code for IDEA PULL 测试");
 
     }
 }
