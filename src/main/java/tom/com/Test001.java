@@ -7,5 +7,6 @@ public class Test001 {
         System.out.println("hello git01");
         System.out.println("hello git02");
         System.out.println("fdsfsafa");
+        System.out.println("FairyHome_fix first Commit from IDEA  ");
     }
 }
